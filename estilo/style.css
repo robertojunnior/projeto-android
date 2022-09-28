@@ -73,6 +73,7 @@ nav {
 }
 
 nav a {
+    font-size: 18px;
     padding: 10px;
     color: white;
     font-weight: bold;
