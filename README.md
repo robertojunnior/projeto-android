@@ -5,12 +5,16 @@ Acesse o link do <a target="_blank" href="https://robertojunnior.github.io/proje
 
 Abaixo as imagens do site responsivo versão Desktop e Mobile.
 
-<img id="p1" src="https://github.com/robertojunnior/Html_Css_JavaScript/blob/main/Desafios/d010/mockup_page/site%20projeto%20android%20mobile%20desktop.png?raw=true" alt="D and M">
 
-  
+
+ <div align="center">
+    <a target="_blank" href="https://robertojunnior.github.io/projeto-android/">
+    <img src="./imagens/mockup-site.png" alt="D and M">
+    <img src="./imagens/desktop-mobile.png" alt="D and M">   
+</a>
+</div> 
  
     
     
-
 
 
